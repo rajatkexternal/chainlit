@@ -1,0 +1,2 @@
+chainlit
+git+https://github.com/Chainlit/chainlit.git#subdirectory=backend/
